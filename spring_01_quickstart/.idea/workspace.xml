@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fba3032f-f395-46f0-8163-7b41ef560c94" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2/src/main/java/com/example/demo2/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2/src/main/java/com/example/demo2/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/artifacts/demo3_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/example/demo4/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/.idea/artifacts/dormitoryms_ssm_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/example/dormitoryms_ssm/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/dto/AccountDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/form/AccountForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/mapper/SystemAdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/java/com/southwind/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/webapp/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/webapp/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dormitoryms_ssm/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/spring_02_base_config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_02_base_config/target/classes/com/ablaze/factory/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/spring_03_bean_instance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/factory/OrderDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/factory/UserDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/java/com/ablaze/factory/UserDaoFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_03_bean_instance/target/classes/com/ablaze/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/src/main/java/com/ablaze/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/src/main/java/com/ablaze/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_04_bean_lifecycle/target/classes/com/ablaze/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/src/main/java/com/ablaze/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_05_di_set/target/classes/com/itheima/factory/UserDaoFactoryBeaen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/spring_06_di_constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/java/com/ablaze/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_06_di_constructor/target/classes/com/itheima/factory/UserDaoFactoryBeaen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/spring_07_di_autoware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/ablaze/AppForDIAutoware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/ablaze/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/ablaze/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForDIConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForDISet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_07_di_autoware/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/spring_08_di_collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForDIAutoware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForDIConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForDISet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/factory/UserDaoFactoryBeaen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_08_di_collection/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/spring_09_datasource.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/AppForDICollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/AppForDIConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/factory/OrderDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/factory/UserDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/factory/UserDaoFactoryBeaen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_09_datasource/target/classes/jdbc2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/spring_10_container.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/AppForDICollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/AppForDISet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/AppSystemProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_10_container/target/classes/com/itheima/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/spring_11_annotation_bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/src/main/java/com/ablaze/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/src/main/java/com/ablaze/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/applicationContext.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/AppForAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/ablaze/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/AppForDICollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/AppForDISet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_11_annotation_bean/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_12_annotation_bean_manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_12_annotation_bean_manager/spring_12_annotation_bean_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_12_annotation_bean_manager/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_12_annotation_bean_manager/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/src/main/java/com/ablaze/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/applicationContext.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/dao/impl/BookDaoImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/ablaze/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForDIAutoware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForDIConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForInstanceUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/AppSystemProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/com/itheima/factory/OrderDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_13_annotation_di/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/spring_14_annotation_third_bean_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/applicationContext.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/ablaze/config/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppForBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppForDISet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppForInstanceBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppForInstanceOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppForLifeCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/AppSystemProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/factory/OrderDaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/com/itheima/factory/UserDaoFactoryBeaen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/spring_15_spring_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/src/main/java/com/ablaze/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/src/main/java/com/ablaze/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/SqlMapConfig.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/App2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/config/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/config/MybatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_15_spring_mybatis/target/classes/com/ablaze/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/spring_16_spring_junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/src/main/java/com/ablaze/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/SqlMapConfig.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/config/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/config/MybatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_16_spring_junit/target/classes/com/ablaze/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/spring_17_aop_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_17_aop_demo/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/spring_18_aop_quickstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/src/main/java/com/ablaze/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/target/classes/com/ablaze/aop/MyAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_18_aop_quickstart/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/spring_19_aop_pointcut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/target/classes/com/ablaze/aop/MyAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_19_aop_pointcut/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/src/main/java/com/ablaze/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_20_aop_advice_type/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/aop/ProjectAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/config/MybatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/domain/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_21_case_interface_run_speed/target/classes/com/ablaze/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/spring_22_aop_advice_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/src/main/java/com/ablaze/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/src/main/java/com/ablaze/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/src/main/java/com/ablaze/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/src/main/java/com/ablaze/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/target/classes/com/ablaze/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/target/classes/com/ablaze/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_22_aop_advice_data/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/spring_23_case_handle_password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/target/classes/com/ablaze/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/target/classes/com/ablaze/dao/ResourcesDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/target/classes/com/ablaze/service/ResourcesService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_23_case_handle_password/target/classes/com/ablaze/service/impl/ResourcesServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/spring_24_case_transfer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/target/classes/com/ablaze/aop/ProjectAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/target/classes/com/ablaze/domain/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/target/classes/com/ablaze/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_24_case_transfer/target/classes/com/ablaze/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/spring_25_case_transfer_log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/src/main/java/com/ablaze/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/aop/ProjectAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/config/MybatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/config/SpringConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/domain/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/service/LogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/com/ablaze/service/impl/LogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_25_case_transfer_log/target/test-classes/com/ablaze/service/AccountServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\JavaWeb\Maven\apache-maven-3.6.3\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../JavaWeb/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\JavaWeb\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CcftfOatTXciVh9WwJga3HQEZ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37821782" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\SSM\Spring\Workspace\spring_25_case_transfer_log\src\main\java\com\ablaze\service\impl" />
+      <recent name="G:\SSM\Spring\Workspace\spring_25_case_transfer_log\src\main\java\com\ablaze\service" />
+      <recent name="G:\SSM\Spring\Workspace\spring_25_case_transfer_log\src\main\java\com\ablaze\dao" />
+      <recent name="G:\SSM\Spring\Workspace" />
+      <recent name="G:\SSM\Spring\Workspace\spring_01_quickstart1\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ablaze" />
+      <recent name="com.itheima" />
+      <recent name="com.itheima.config" />
+      <recent name="com.itheima.dao.impl" />
+      <recent name="com.itheima.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (2)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.App" />
+      <module name="spring_12_annotation_bean_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ablaze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.App" />
+      <module name="spring_20_aop_advice_type" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ablaze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_24_case_transfer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ablaze.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ablaze.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.service.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_16_spring_junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ablaze.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ablaze.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.service.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_25_case_transfer_log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ablaze.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ablaze.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.service.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="spring_01_quickstart:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_01_quickstart_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b41ce1d1-d5a5-4288-8a0c-9f6ec4e07fad" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56477" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindById" />
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
+        <item itemvalue="JUnit.AccountServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba3032f-f395-46f0-8163-7b41ef560c94" name="Changes" comment="" />
+      <created>1659107010062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659107010062</updated>
+      <workItem from="1659107012385" duration="2012000" />
+      <workItem from="1659188030028" duration="1797000" />
+      <workItem from="1659230476340" duration="8852000" />
+      <workItem from="1659280895328" duration="2172000" />
+      <workItem from="1659317150749" duration="1184000" />
+      <workItem from="1659355327925" duration="8857000" />
+      <workItem from="1659403329496" duration="8045000" />
+      <workItem from="1659441868526" duration="6040000" />
+      <workItem from="1659521257914" duration="2951000" />
+      <workItem from="1659585225954" duration="698000" />
+      <workItem from="1659623621288" duration="4041000" />
+      <workItem from="1659702472830" duration="615000" />
+      <workItem from="1660043136900" duration="7037000" />
+      <workItem from="1660059777987" duration="386000" />
+      <workItem from="1660060189850" duration="213000" />
+      <workItem from="1660060424710" duration="231000" />
+      <workItem from="1660124668541" duration="4153000" />
+      <workItem from="1660129769118" duration="3294000" />
+      <workItem from="1661259723918" duration="408000" />
+      <workItem from="1677488442463" duration="477000" />
+      <workItem from="1681544282216" duration="4371000" />
+      <workItem from="1681612419736" duration="21446000" />
+      <workItem from="1682931629939" duration="5549000" />
+      <workItem from="1683036938585" duration="268000" />
+      <workItem from="1683037217053" duration="1267000" />
+      <workItem from="1683041009853" duration="474000" />
+      <workItem from="1684069877407" duration="34000" />
+      <workItem from="1688313629146" duration="136000" />
+      <workItem from="1693365340768" duration="1241000" />
+      <workItem from="1693788186599" duration="30000" />
+      <workItem from="1695600998043" duration="649000" />
+      <workItem from="1695605903043" duration="104000" />
+      <workItem from="1696812728150" duration="1506000" />
+      <workItem from="1696819668769" duration="1049000" />
+      <workItem from="1696926297834" duration="1441000" />
+      <workItem from="1696991859024" duration="2560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

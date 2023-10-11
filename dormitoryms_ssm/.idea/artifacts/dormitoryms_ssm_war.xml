@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dormitoryms_ssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dormitoryms_ssm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dormitoryms_ssm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dormitoryms_ssm:war exploded" />
+    </root>
+  </artifact>
+</component>

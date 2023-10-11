@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_02_base_config" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_03_bean_instance" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_04_bean_lifecycle" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_05_di_set" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_06_di_constructor" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_07_di_autoware" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_08_di_collection" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_09_datasource" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_10_container" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_11_annotation_bean" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_12_annotation_bean_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_13_annotation_di" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_14_annotation_third_bean_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_15_spring_mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_16_spring_junit" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_17_aop_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_18_aop_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_19_aop_pointcut" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_20_aop_advice_type" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_21_case_interface_run_speed" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_22_aop_advice_data" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_23_case_handle_password" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_24_case_transfer" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_25_case_transfer_log" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../spring_01_quickstart1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_03_bean_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_04_bean_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_23_case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_05_di_set/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_06_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_07_di_autoware/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_08_di_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_09_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_10_container/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_11_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_12_annotation_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_13_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_14_annotation_third_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_22_aop_advice_data/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_15_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_16_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_17_aop_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_19_aop_pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_20_aop_advice_type/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_21_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_24_case_transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_25_case_transfer_log/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
